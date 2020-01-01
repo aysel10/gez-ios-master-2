@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - Auk (8.0.2):
+    - moa
+  - BEMCheckBox (1.4.1)
+  - DLRadioButton (1.4.12)
+  - HCSStarRatingView (1.5)
+  - IQKeyboardManager (6.1.1)
+  - moa (9.0.2)
+  - ObjectMapper (3.3.0)
+  - SkyFloatingLabelTextField (3.5.1)
+  - XMLMapper (1.5.1):
+    - XMLMapper/Core (= 1.5.1)
+  - XMLMapper/Core (1.5.1)
+  - XMLMapper/Requests (1.5.1):
+    - Alamofire (~> 4.1)
+    - XMLMapper/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - Auk (~> 8.0)
+  - BEMCheckBox
+  - DLRadioButton (~> 1.4)
+  - HCSStarRatingView (~> 1.5)
+  - IQKeyboardManager
+  - moa (~> 9.0)
+  - ObjectMapper
+  - SkyFloatingLabelTextField (~> 3.0)
+  - XMLMapper
+  - XMLMapper/Requests
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Auk
+    - BEMCheckBox
+    - DLRadioButton
+    - HCSStarRatingView
+    - IQKeyboardManager
+    - moa
+    - ObjectMapper
+    - SkyFloatingLabelTextField
+    - XMLMapper
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  Auk: 82be62a2cf650437fe745c81b12ac2440a0f682c
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
+  moa: b73dc5e0efa1fad00711c4608e41b197f4d15b12
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  SkyFloatingLabelTextField: 4cbeece9c3aae97c6019d8fae511cb5b755874f7
+  XMLMapper: 40841d2d7d134715943c8bca42dabdbcfe03d354
+
+PODFILE CHECKSUM: 748b5eb4715013c8b7672f9152ea42ad0c1e78e1
+
+COCOAPODS: 1.5.3
